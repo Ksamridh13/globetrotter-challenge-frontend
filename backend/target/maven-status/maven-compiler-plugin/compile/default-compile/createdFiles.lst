@@ -1,0 +1,12 @@
+com/globetrotter/model/Destination.class
+com/globetrotter/repository/DestinationRepository.class
+com/globetrotter/controller/ShareController.class
+com/globetrotter/DataInitializer.class
+com/globetrotter/service/DestinationService.class
+com/globetrotter/controller/UserController.class
+com/globetrotter/repository/UserRepository.class
+com/globetrotter/model/User.class
+com/globetrotter/controller/DestinationController.class
+com/globetrotter/service/UserService.class
+com/globetrotter/GlobetrotterChallengeApplication.class
+com/globetrotter/config/WebConfig.class
