@@ -5,6 +5,8 @@ import Home from './components/Home';
 import Game from './components/Game';
 import Challenge from './components/Challenge';
 
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || "https://globetrotter-challenge-backend-production.up.railway.app/";
+
 function App() {
   const [username, setUsername] = useState('');
   const [score, setScore] = useState({ correct: 0, incorrect: 0 });

@@ -10,3 +10,4 @@ public class GlobetrotterChallengeApplication {
         SpringApplication.run(GlobetrotterChallengeApplication.class, args);
     }
 }
+
